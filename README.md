@@ -1,14 +1,8 @@
 # ImageProcessing
 MATLAB scripts for analysis of confocal microscopy images
-++++++++++++++++++++++++++++++++++++++++++++++++
-HiLo.m
-Performs lowpass and highpass filtering for noise reduction
-++++++++++++++++++++++++++++++++++++++++++++++++
+HiLo.m: Performs lowpass and highpass filtering for noise reduction
+ExtractNuclei.m: Identifies and enumerates nuclei in a DAPI image
 
-++++++++++++++++++++++++++++++++++++++++++++++++
-ExtractNuclei.m
-Identifies and enumerates nuclei in a DAPI image
-++++++++++++++++++++++++++++++++++++++++++++++++
 
 ++++++++++++++++++++++++++++++++++++++++++++++++
 IntegrateFociIntensity.m
